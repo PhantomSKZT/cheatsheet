@@ -13,6 +13,8 @@
 
 ## 🔍 Lecture et Recherche
 
+| Command | Purpose | Example
+| :--- | :--- | :--- |
 | `cat` | | |
 | `head` | | |
 | `tail` | | |
@@ -21,12 +23,15 @@
 
 ## 🌐 Réseau et Téléchargement
 
+| Command | Purpose | Example
+| :--- | :--- | :--- |
 | `curl` | | |
 | `wget` | | |
 
 ## 🛠 Aide et Système
 
-
+| Command | Purpose | Example
+| :--- | :--- | :--- |
 | `man` | | |
 | `tldr` | ???? pas l'air de fonctionner | `tldr mv` |
 | `uptime` | | |
@@ -35,6 +40,8 @@
 
 ## 📦 Archivage et Édition
 
+| Command | Purpose | Example
+| :--- | :--- | :--- |
 | `history` | | |
 | `echo` | | |
 | `date` | | |
